@@ -1,3 +1,3 @@
-# Curso-Node-js
+# Node-js Course
 
-- Curso de Fernando Herrera
+- Fernando Herrera's course
